@@ -1,0 +1,1 @@
+# Estos son los primeras notas de python
